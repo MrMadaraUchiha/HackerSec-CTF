@@ -2,7 +2,7 @@
 
 ![screenshot](/challenges/level-1/betterLook/img/challenge.png)
 
-*Fala guys! Mais um desafio nas noites frias de segunda-feira.
+*Fala guys! Mais um desafio na noite fria desta segunda-feira.
 Confesso que foi um challenge bem tranquilo de ser resolvido, mas que requer sempre a devida atenção e vontade, que a flag virá com sucesso.*
 
 *Como sempre faço de inicio, busco analisar o código fonte em busca de pistas e, foi justamente aí que encontrei um código em base64 ```b3BlbkV5ZQ==```*
